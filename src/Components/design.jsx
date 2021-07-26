@@ -133,45 +133,45 @@ function Design() {
                         </a>
                         <div className='caption'>Excerpt from product marketing competitive one-pager.</div>
                     </div>
-                    <div className='imageContainer'>
+                    <div className='imageContainer-special'>
                         <a className='pic' href={ P11 }>
-                            <img src={ P11 } id='p12' alt='Trade show pop-up banner design.'/>
+                            <img src={ P11 } id='p11' alt='Trade show pop-up banner design.'/>
                         </a>
                         <div className='caption'>Trade show pop-up banner design.</div>
                     </div>
                     <div className='imageContainer'>
                         <a className='pic' href={ P12 }>
-                            <img src={ P12 } id='p13' alt='Early iterative concepts for new product logos.'/>
+                            <img src={ P12 } id='p12' alt='Early iterative concepts for new product logos.'/>
                         </a>
                         <div className='caption'>Early iterative concepts for new product logos.</div>
                     </div>
                     <div className='imageContainer'>
                         <a className='pic' href={ P13 }>
-                            <img src={ P13 } id='p14' alt='More early iterative concepts for new product marketing materials.'/>
+                            <img src={ P13 } id='p13' alt='More early iterative concepts for new product marketing materials.'/>
                         </a>
                         <div className='caption'>More early iterative concepts for new product marketing materials.</div>
                     </div>
                     <div className='imageContainer'>
                         <a className='pic' href={ P14 }>
-                            <img src={ P14 } id='p15' alt='Conceptual, illustrated team plaques.'/>
+                            <img src={ P14 } id='p14' alt='Conceptual, illustrated team plaques.'/>
                         </a>
                         <div className='caption'>Conceptual, illustrated team plaques.</div>
                     </div>
                     <div className='imageContainer'>
                         <a className='pic' href={ P15 }>
-                            <img src={ P15 } id='p16' alt='Excerpt from SaaS product booklet.'/>
+                            <img src={ P15 } id='p15' alt='Excerpt from SaaS product booklet.'/>
                         </a>
                         <div className='caption'>Excerpt from SaaS product booklet.</div>
                     </div>
                     <div className='imageContainer'>
                         <a className='pic' href={ P16 }>
-                            <img src={ P16 } id='p17' alt='Mock-up for patient-facing trifold.'/>
+                            <img src={ P16 } id='p16' alt='Mock-up for patient-facing trifold.'/>
                         </a>
                         <div className='caption'>Mock-up for patient-facing trifold.</div>
                     </div>
                     <div className='imageContainer'>
                         <a className='pic' href={ P17 }>
-                            <img src={ P17 } id='p1' alt='Diagnostic products booklet excerpt.'/>
+                            <img src={ P17 } id='p17' alt='Diagnostic products booklet excerpt.'/>
                         </a>
                         <div className='caption'>Diagnostic products booklet excerpt.</div>
                     </div>
@@ -217,7 +217,7 @@ function Design() {
                         </a>
                         <div className='caption'>Excerpt from Spanish-language marketing booklet for carrier screening test.</div>
                     </div>
-                    <div className='imageContainer-3'>
+                    <div className='imageContainer-special-2'>
                         <a className='pic' href={ R3 }>
                             <img src={ R3 } id='r3' alt='Spanish-language patient-facing FAQ document.'/>
                         </a>

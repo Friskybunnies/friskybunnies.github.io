@@ -15,9 +15,9 @@ function Writing() {
   return (
     <div className="writing">
       <div className='opener'>
-        <h1>I have written extensively in diverse contexts throughout my career. I've been a marketing copywriter for print and web, a CEO ghostwriter, a team lead editor, an academic coach, and a content producer and manager. My writing spans everything from qualitative financial analysis and business proposals to creative fiction and sketches. <b>Click the links and images below to view samples for current and former clients, including:</b></h1>
+        <p id="h1-writing">I have written extensively in diverse contexts throughout my career. I've been a marketing copywriter for print and web, a CEO ghostwriter, a team lead editor, an academic coach, and a content producer and manager. My writing spans everything from qualitative financial analysis and business proposals to creative fiction and sketches. <b>Click the links and images below to view samples for current and former clients, including:</b></p>
       </div>
-      <div className='sub-division'>
+      <div className='sub-division-arrow'>
         <img className="jf-resume-arrow-2" src={ JFResumeArrow } alt="" />
       </div>
       <hr></hr>
