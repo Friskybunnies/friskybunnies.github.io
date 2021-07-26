@@ -1,0 +1,729 @@
+@media screen and (min-width: 768px) {
+    .allThings {
+        margin-bottom: 5%;
+    }
+    
+    .phosphorusText {
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 5%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        margin-right: 5vw;
+    }
+    
+    .owlsBrew {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 5%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        margin-right: 5vw;
+    }
+    
+    .recombine-t {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 5%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        margin-right: 5vw;
+    }
+    
+    .aceViu {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 5%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        margin-right: 5vw;
+    }
+    
+    .pph {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 5%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        margin-right: 5vw;
+    }
+    
+    .dittopr {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 5%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        margin-right: 5vw;
+    }
+    
+    .columbia {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 5%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        margin-right: 5vw;
+    }
+    
+    .top {
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 2%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        margin-bottom: 4%;
+    }
+    
+    .gridContainer-1 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: 25%
+    }
+    
+    .imageContainer {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 2fr);
+        grid-row-gap: 7%;
+    }
+    
+    .gridContainer-2 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    
+    .imageContainer-2 {
+        display: grid;
+        grid-template-columns: repeat(1);
+        grid-template-rows: repeat(2);
+        grid-row-gap: 7%;
+    }
+    
+    .gridContainer-3 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 9%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: 15%;
+    }
+    
+    .imageContainer-3 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-row-gap: 5%;
+    }
+    
+    .gridContainer-4 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: -3%;
+    }
+    
+    .imageContainer-4 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 2fr);
+        grid-row-gap: 7%;
+        margin-top: -20%;
+    }
+    
+    .gridContainer-5 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    
+    .imageContainer-5 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 2fr);
+        grid-row-gap: 7%;
+    }
+    
+    .gridContainer-6 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    
+    .imageContainer-6 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 2fr);
+        grid-row-gap: 7%;
+    }
+    
+    .gridContainer-7 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    
+    .imageContainer-7 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 2fr);
+        grid-row-gap: 7%;
+    }
+    
+    .pic {
+        max-width: 100%;
+        height: 18vw; 
+    }
+    
+    #p1, #p2, #p3, #p4, #p5, #p6, #p7, #p8, #p9, #p10, #p11, #p12, #p13, #p14, #p15, #p16, #p17, #o1, #o2, #o3, #r1, #r2, #r3, #r4, #r5, #r6, #r7, #r8, #r9, #a1, #pp1, #pp2, #d1, #d2, #c1, #c2 {
+        max-height: 100%;
+        max-width: 100%;
+        object-fit: cover;
+    }
+    
+    .caption {
+        overflow: hidden;
+        white-space: nowrap;
+    }
+}
+
+@media screen and (min-width: 640px) and (max-width: 768px) {
+    .allThings {
+        margin-bottom: 5%;
+    }
+    
+    .phosphorusText {
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+
+    .allp {
+        margin-top: 8vh;
+    }
+    
+    .owlsBrew {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 28vh;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+    
+    .recombine-t {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 8vh;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+    
+    .aceViu {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 18vh;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+    
+    .pph {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 6vh;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+    
+    .dittopr {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 10vh;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+    
+    .columbia {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 8vh;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+    
+    .top {
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 2%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        margin-bottom: 4%;
+    }
+    
+    .gridContainer-1 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: 25%
+    }
+    
+    .imageContainer {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 2fr);
+        grid-row-gap: 7%;
+    }
+    
+    .gridContainer-2 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    
+    .imageContainer-2 {
+        display: grid;
+        grid-template-columns: repeat(1);
+        grid-template-rows: repeat(2);
+        grid-row-gap: 7%;
+    }
+    
+    .gridContainer-3 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 9%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: 15%;
+    }
+    
+    .imageContainer-3 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-row-gap: 5%;
+    }
+    
+    .gridContainer-4 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: -3%;
+    }
+    
+    .imageContainer-4 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 2fr);
+        grid-row-gap: 7%;
+        margin-top: -20%;
+    }
+    
+    .gridContainer-5 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    
+    .imageContainer-5 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 2fr);
+        grid-row-gap: 7%;
+    }
+    
+    .gridContainer-6 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    
+    .imageContainer-6 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 2fr);
+        grid-row-gap: 7%;
+    }
+    
+    .gridContainer-7 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 3%;
+        grid-row-gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: 10vh;
+    }
+    
+    .imageContainer-7 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 2fr);
+        grid-row-gap: 7%;
+    }
+    
+    .pic {
+        max-width: 100%;
+        height: 18vw; 
+    }
+    
+    #p1, #p2, #p3, #p4, #p5, #p6, #p7, #p8, #p9, #p10, #p11, #p12, #p13, #p14, #p15, #p16, #p17, #o1, #o2, #o3, #r1, #r2, #r3, #r4, #r5, #r6, #r7, #r8, #r9, #a1, #pp1, #pp2, #d1, #d2, #c1, #c2 {
+        max-height: 100%;
+        max-width: 100%;
+        object-fit: cover;
+    }
+    
+    .caption {
+        overflow: hidden;
+        white-space: nowrap;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .allThings {
+        margin-bottom: 5%;
+        display: block;
+    }
+    
+    .phosphorusText {
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 5%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+    
+    .owlsBrew {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 5%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+    
+    .recombine-t {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 5%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+    
+    .aceViu {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+    
+    .pph {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 5%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+    
+    .dittopr {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 5%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+    
+    .columbia {
+        position: relative;
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 5%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        width: 80vw;
+    }
+    
+    .top {
+        color: black;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: 10%;
+        margin-top: 2%;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        margin-bottom: 8%;
+    }
+
+    .allp {
+        margin-bottom: 20vh;
+        margin-top: 8vh;
+    }
+
+    .allo {
+        margin-bottom: 20vh;
+    }
+
+    .allr {
+        margin-top: 28vh;
+    }
+
+    .alla {
+        margin-top: -60vh;
+    }
+
+    .allpp {
+        margin-top: 18vh;
+    }
+
+    .alld {
+        margin-top: 20vh;
+    }
+
+    .allc {
+        margin-top: 30vh;
+        margin-bottom: 25vh;
+    }
+    
+    .gridContainer-1 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(8, 1fr);
+        grid-column-gap: 0px;
+        margin-left: 2vw;
+    }
+    
+    .imageContainer {
+        display: grid;
+        grid-template-columns: repeat(1, 2fr);
+        width: 45vw;
+        margin-right: 5vw;
+        margin-bottom: -28vh;
+    }
+    
+    .gridContainer-2 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-column-gap: 0px;
+        margin-left: 2vw;
+    }
+    
+    .imageContainer-2 {
+        display: grid;
+        grid-template-columns: repeat(1, 2fr);
+        width: 45vw;
+        margin-right: 5vw;
+        margin-bottom: -28vh;
+    }
+    
+    .gridContainer-3 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(8, 1fr);
+        grid-column-gap: 0px;
+        margin-left: 2vw;
+    }
+
+    .imageContainer-3 {
+        width: 45vw;
+        margin-right: 5vw;
+        margin-bottom: -28vh;
+    }
+    
+    .imageContainer-4 {
+        width: 40vw;
+        margin-left: 5vw;
+        margin-right: 5vw;
+        margin-bottom: -15vh;
+        margin-top: -3vh;
+    }
+    
+    .gridContainer-5 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 0px;
+        margin-left: 2vw;
+    }
+    
+    .imageContainer-5 {
+        display: grid;
+        grid-template-columns: repeat(1, 2fr);
+        width: 45vw;
+        margin-right: 5vw;
+        margin-bottom: -28vh;
+    }
+    
+    .gridContainer-6 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 0px;
+        margin-left: 2vw;
+    }
+    
+    .imageContainer-6 {
+        display: grid;
+        grid-template-columns: repeat(1, 2fr);
+        width: 45vw;
+        margin-right: 5vw;
+        margin-bottom: -28vh;
+    }
+    
+    .gridContainer-7 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(8, 1fr);
+        grid-column-gap: 0px;
+        margin-left: 2vw;
+    }
+    
+    .imageContainer-7 {
+        display: grid;
+        grid-template-columns: repeat(1, 2fr);
+        width: 45vw;
+        margin-right: 5vw;
+        margin-bottom: -28vh;
+    }
+    
+    #p1, #p2, #p3, #p4, #p5, #p6, #p7, #p8, #p9, #p10, #p11, #p12, #p13, #p14, #p15, #p16, #p17, #r1, #r2, #r3, #r4, #r5, #r6, #r7, #r8, #r9, #a1, #pp1, #pp2, #c1, #c2 {
+        max-height: 40%;
+        max-width: 100%;
+    }
+
+    #o1, #o2, #o3, #d1, #d2 {
+        max-height: 40vh;
+        max-width: 100%;
+    }
+    
+    .caption {
+        overflow: hidden;
+        white-space: nowrap;
+        display: none;
+    }
+}

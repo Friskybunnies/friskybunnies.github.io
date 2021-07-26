@@ -1,0 +1,219 @@
+@media screen and (min-width: 769px) {
+    .copyright {
+        text-align: left;
+        display: inline-flex;
+        font-size: .9rem;
+        margin-left: 20px;
+        color: rgb(157, 157, 157);
+    }
+    
+    .icon {
+        border-color: #222;
+        margin: 0 4px;
+        width: 32px;
+        height: 32px;
+        border: 2px solid;
+        box-sizing: border-box;
+        border-radius: 50%;
+        transition: fill 140ms cubic-bezier(.33,0,.2,1);
+        display: inline-block;
+        position: relative;
+        overflow: hidden;
+        cursor: pointer;
+        text-decoration: none;
+        color: #000;
+        text-align: center;
+        font-family: proxima-nova;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 15px;
+        line-height: 2em;
+        letter-spacing: .06em;
+        text-rendering: optimizeLegibility;
+    }
+    
+    .icon:hover {
+        color: #222;
+        background: #222;
+    }
+    
+    #facebook path {
+        transition: fill 140ms cubic-bezier(.33,0,.2,1);
+        z-index: 1;
+    }
+    
+    #facebook:hover path {
+        fill: white;
+    }
+    
+    #instagram path {
+        transition: fill 140ms cubic-bezier(.33,0,.2,1);
+        z-index: 1;
+    }
+    
+    #instagram:hover path {
+        fill: white;
+    }
+    
+    .technologies {
+        text-align: right;
+        display: inline-flex;
+        font-size: .9rem;
+        margin-right: 20px;
+        color: rgb(157, 157, 157);
+    }
+    
+    .footer-container {
+        justify-content: space-between;
+        display: flex;
+        align-items: center;
+    }
+
+    .small-copyright {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 640px) and (max-width: 769px) {
+    .icons {
+        margin-bottom: 8vw;
+    }
+    
+    .icon {
+        border-color: #222;
+        margin: 0 4px;
+        width: 32px;
+        height: 32px;
+        border: 2px solid;
+        box-sizing: border-box;
+        border-radius: 50%;
+        transition: fill 140ms cubic-bezier(.33,0,.2,1);
+        display: inline-block;
+        position: relative;
+        overflow: hidden;
+        cursor: pointer;
+        text-decoration: none;
+        color: #000;
+        text-align: center;
+        font-family: proxima-nova;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 15px;
+        line-height: 2em;
+        letter-spacing: .06em;
+        text-rendering: optimizeLegibility;
+    }
+    
+    .icon:hover {
+        color: #222;
+        background: #222;
+    }
+    
+    #facebook path {
+        transition: fill 140ms cubic-bezier(.33,0,.2,1);
+        z-index: 1;
+    }
+    
+    #facebook:hover path {
+        fill: white;
+    }
+    
+    #instagram path {
+        transition: fill 140ms cubic-bezier(.33,0,.2,1);
+        z-index: 1;
+    }
+    
+    #instagram:hover path {
+        fill: white;
+    }
+
+    .copyright {
+        display: none;
+    }
+    
+    .technologies {
+        font-size: .9rem;
+        color: rgb(157, 157, 157);
+        text-align: center;
+        margin-top: -3vh;
+    }
+    
+    .small-copyright {
+        font-size: .9rem;
+        color: rgb(157, 157, 157);
+        text-align: center;
+        margin-top: -2vh;
+    }
+
+    .footer-container {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .icon {
+        border-color: #222;
+        margin: 0 4px;
+        width: 32px;
+        height: 32px;
+        border: 2px solid;
+        box-sizing: border-box;
+        border-radius: 50%;
+        transition: fill 140ms cubic-bezier(.33,0,.2,1);
+        display: inline-block;
+        position: relative;
+        overflow: hidden;
+        cursor: pointer;
+        text-decoration: none;
+        color: #000;
+        text-align: center;
+        font-family: proxima-nova;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 15px;
+        line-height: 2em;
+        letter-spacing: .06em;
+        text-rendering: optimizeLegibility;
+    }
+    
+    .icon:hover {
+        color: #222;
+        background: #222;
+    }
+    
+    #facebook path {
+        transition: fill 140ms cubic-bezier(.33,0,.2,1);
+        z-index: 1;
+    }
+    
+    #facebook:hover path {
+        fill: white;
+    }
+    
+    #instagram path {
+        transition: fill 140ms cubic-bezier(.33,0,.2,1);
+        z-index: 1;
+    }
+    
+    #instagram:hover path {
+        fill: white;
+    }
+    
+    .copyright {
+        display: none;
+    }
+    
+    .technologies {
+        font-size: .9rem;
+        color: rgb(157, 157, 157);
+        text-align: center;
+    }
+    
+    .small-copyright {
+        font-size: .9rem;
+        color: rgb(157, 157, 157);
+        text-align: center;
+        margin-top: -2vh;
+    }
+}

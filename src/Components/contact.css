@@ -1,0 +1,171 @@
+@media screen and (min-width: 769px) {
+    .contact {
+        display: flex;
+        margin-bottom: 8%;
+        height: 68vh;
+    }
+    
+    .sub-division {
+        justify-content: center;
+    }
+    
+    .where-neck {
+        max-height: 50vh;
+        margin-top: 5%;
+        margin-left: 5vw;
+        z-index: 0;
+    }
+
+    .wrapper {
+        display: flex;
+        flex-direction: row;
+        margin-top: 10vh;
+        width: 100%;
+        height: 40vh;
+    }
+
+    .sub-wrapper-1 {
+        width: 40vw;
+    }
+
+    .sub-wrapper-2 {
+        width: 50vw;
+    }
+    
+    p {
+        text-align: left;
+        letter-spacing: 2px;
+        word-spacing: 8px;
+        font-size: 20px;
+        color: black;
+        line-height: 30px;
+    }
+    
+    .text {
+        margin-top: 10%;
+        margin-left: 10%;
+        z-index: 1;
+    }
+    
+    .images {
+        width: 10%;
+    }
+    
+    .upwork {
+        height: 10%;
+    }
+    
+    .image {
+        width: 8%;
+        position: relative;
+        margin-right: 15px;
+    }
+    
+    .bold {
+        font-weight: 700;
+        color: #65C17D;
+    }
+}
+
+@media screen and (min-width: 640px) and (max-width: 768px) {
+    .wrapper {
+        margin-top: 5vh;
+        min-height: 10vh;
+    }
+
+    .where-neck {
+        max-height: 28vh;
+    }
+    
+    p {
+        text-align: left;
+        letter-spacing: 2px;
+        word-spacing: 5px;
+        font-size: 1rem;
+        color: black;
+        line-height: 1.5em;
+    }
+    
+    .text {
+        margin-top: 5vh;
+        margin-left: 10vw;
+        z-index: 1;
+        margin-right: 10vw;
+    }
+
+    .contact-info-2 {
+        margin-top: 5vh;
+    }
+    
+    .upwork {
+        height: 10%;
+    }
+    
+    .image {
+        width: 8%;
+        position: relative;
+        margin-right: 15px;
+    }
+    
+    .bold {
+        font-weight: 700;
+        color: #65C17D;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .wrapper {
+        margin-top: 5vh;
+        width: 100%;
+        min-height: 90vh;
+    }
+
+    .where-neck {
+        max-height: 50vh;
+        z-index: 0;
+    }
+
+    .sub-wrapper-2 {
+        width: 100vw;
+        min-height: 50vh;
+    }
+    
+    p {
+        text-align: left;
+        letter-spacing: 2px;
+        word-spacing: 8px;
+        font-size: 1rem;
+        color: black;
+        line-height: 2em;
+    }
+    
+    .text {
+        margin-top: 10%;
+        margin-left: 12%;
+        z-index: 1;
+        margin-right: 10%;
+    }
+
+    .contact-info-2 {
+        margin-top: 5vh;
+    }
+    
+    .images {
+        width: 10%;
+    }
+    
+    .upwork {
+        height: 10%;
+    }
+    
+    .image {
+        width: 8%;
+        position: relative;
+        margin-right: 15px;
+    }
+    
+    .bold {
+        font-weight: 700;
+        color: #65C17D;
+    }
+}

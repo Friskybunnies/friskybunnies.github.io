@@ -3,10 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import '../node_modules/@fortawesome/react-fontawesome';
+import SimpleReactLightbox from 'simple-react-lightbox';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <SimpleReactLightbox>
+      <App />
+    </SimpleReactLightbox>
   </React.StrictMode>,
   document.getElementById('root')
 );

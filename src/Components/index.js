@@ -1,0 +1,9 @@
+export { default as Navigation } from './navigation';
+export { default as Footer } from './footer';
+export { default as Home } from './home';
+export { default as Code } from './code';
+export { default as Resume } from './resume';
+export { default as Design } from './design';
+export { default as Writing } from './writing';
+export { default as Performance } from './performance';
+export { default as Contact } from './contact';
