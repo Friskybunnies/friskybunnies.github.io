@@ -11,7 +11,7 @@ function Home() {
         </div>
         <div className='sub-division'>
           <p id='tagline'>
-            Hi hi
+            Multi-hypenate living and working in NYC
           </p>
         </div>
       </div>
