@@ -1,6 +1,6 @@
 import React from 'react';
 import '../src/Components/fontAwesomeIcons';
-import { HashRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
 import { Navigation, Footer, Home, Code, Resume, Design, Writing, Performance, Contact } from './Components';
 import './App.css';
 
