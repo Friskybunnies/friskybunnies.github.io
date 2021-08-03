@@ -140,15 +140,15 @@ function Code() {
           I like to generate and fork creative repos across platforms to make digital art with code (such as the header at the top of this page). The samples below are "Rutabaga Zombie," "Dawnfruit/Duskfruit," and "Chromosome Pirouette" respectively, which I created with p5.js on OpenProcessing, an open-source community devoted to the artistic aspects of code. You can check out my profile <a href="https://openprocessing.org/user/280981?view=activity" target="_blank" rel="norefferer">here</a>.
         </div>
         <div className="creative-coding">
-          <video loop muted autoPlay>
+          <video loop muted autoPlay playsInline>
             <source src={Video1} type="video/mp4"></source>
             Sorry, your browser doesn't support embedded videos.
           </video>
-          <video loop muted autoPlay>
+          <video loop muted autoPlay playsInline>
             <source src={Video2} type="video/mp4"></source>
             Sorry, your browser doesn't support embedded videos.
           </video>
-          <video loop muted autoPlay>
+          <video loop muted autoPlay playsInline>
             <source src={Video3} type="video/mp4"></source>
             Sorry, your browser doesn't support embedded videos.
           </video>

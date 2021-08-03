@@ -584,19 +584,19 @@
     }
 
     video {
-        width: 100vw;
+        display: none;
     }
 
     .creative-image {
-        display: none;
+        width: 100vw;
     }
 
     .creative-image-2 {
-        display: none;
+        width: 100vw;
     }
 
     .creative-image-3 {
-        display: none;
+        width: 100vw;
     }
 
     .title {
@@ -748,19 +748,19 @@
     }
 
     video {
-        width: 100vw;
+        display: none;
     }
 
     .creative-image {
-        display: none;
+        width: 100vw;
     }
 
     .creative-image-2 {
-        display: none;
+        width: 100vw;
     }
 
     .creative-image-3 {
-        display: none;
+        width: 100vw;
     }
 
     .title {
