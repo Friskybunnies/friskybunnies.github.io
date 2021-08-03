@@ -14,7 +14,7 @@ function App() {
           <Route path='/home' exact>
             <Redirect to='/' />
           </Route>
-          {/* <Route path='/code' exact component={() => <Code />} /> */}
+          <Route path='/code' exact component={() => <Code />} />
           <Route path='/resume' exact component={() => <Resume />} />
           <Route path='/design' exact component={() => <Design />} />
           <Route path='/writing' exact component={() => <Writing />} />

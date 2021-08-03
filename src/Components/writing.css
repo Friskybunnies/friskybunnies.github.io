@@ -246,6 +246,8 @@
         margin-left: 16%;
         letter-spacing: 1.5px;
         text-align: left;
+        color: rgb(100, 100, 100);
+        font-size: 1.2rem;
     }
     
     a {
@@ -384,6 +386,7 @@
         margin-left: 16%;
         letter-spacing: 1.5px;
         text-align: left;
+        color:rgb(100, 100, 100);
     }
     
     a {

@@ -20,14 +20,14 @@ function Navigation(props) {
                                 {'Resume'.toUpperCase()}
                             </Link>
                         </div>
-                            {/*<li class={`nav-item ${ props.location.pathname === "/code" ? "active" : "" }`}>
-                                <Link class='nav-link' to='/code'>
-                                    &lt;/&gt;
-                                </Link>
-                            </li> */}
                         <div class={`nav-item ${ props.location.pathname === "/design" ? "active" : "" }`}>
                             <Link class='nav-link' to='/design'>
                                 {'Design'.toUpperCase()}
+                            </Link>
+                        </div>
+                        <div class={`nav-item ${ props.location.pathname === "/code" ? "active" : "" }`}>
+                            <Link class='nav-link' to='/code'>
+                                &lt;/&gt;
                             </Link>
                         </div>
                         <div class={`nav-item ${ props.location.pathname === "/writing" ? "active" : "" }`}>
@@ -63,14 +63,14 @@ function Navigation(props) {
                                             {'Resume'.toUpperCase()}
                                         </Link>
                                     </div>
-                                        {/*<li class={`nav-item ${ props.location.pathname === "/code" ? "active" : "" }`}>
-                                            <Link class='nav-link' to='/code' onClick={() => setOpen(!open)}>
-                                                &lt;/&gt;
-                                            </Link>
-                                        </li> */}
                                     <div class={`nav-item ${ props.location.pathname === "/design" ? "active" : "" }`}>
                                         <Link class='nav-link' to='/design' onClick={() => setOpen(!open)}>
                                             {'Design'.toUpperCase()}
+                                        </Link>
+                                    </div>
+                                    <div class={`nav-item ${ props.location.pathname === "/code" ? "active" : "" }`}>
+                                        <Link class='nav-link' to='/code' onClick={() => setOpen(!open)}>
+                                            &lt;/&gt;
                                         </Link>
                                     </div>
                                     <div class={`nav-item ${ props.location.pathname === "/writing" ? "active" : "" }`}>
