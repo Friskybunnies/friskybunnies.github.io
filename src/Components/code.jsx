@@ -41,7 +41,7 @@ function Code() {
       <div className="slide">
         <div className="slide-title">Project #1: Friskybunnies.com</div>
         <div className="description">
-          Whoa, how meta! I made this site with React, WebGL, p5.js, and responsive CSS, with deployment through Netlify.
+          Whoa, how meta! I made this site with React, WebGL, p5.js, Procreate, and responsive CSS, with deployment through Netlify.
         </div>
         <div className="frisky-website">
           <img className="frisky-website-image" src={FriskybunniesWebsite} alt="" />
@@ -77,7 +77,7 @@ function Code() {
       <div className="slide">
         <div className="slide-title">Project #4: RatTunnel.com</div>
         <div className="description">
-          I created a fully-responsive MERN-stack e-commerce SPA for Midwest artist collective Rat Tunnel. I built the frontend with React and Redux, the backend with Node and Express, and the database from MongoDB using Mongoose, with PayPal API interaction for purchasing.
+          I created a fully-responsive MERN-stack e-commerce SPA for Midwest artist collective Rat Tunnel. I built the frontend with React and Redux, the backend with Node and Express, and the database from MongoDB using Mongoose, with PayPal API interaction for purchasing, and bcrypt/JWS for authentication.
         </div>
         <div className="rat-website">
           <img className="rat-website-image" src={RatTunnel} alt="" />
