@@ -29,6 +29,7 @@ import Creative2 from './images/Creative2.png';
 import Creative3 from './images/Creative3.png';
 import DecentLabs from './images/DecentLabs.jpg';
 import Outsite from './images/Outsite.png';
+import MiniExtensions from './images/MiniExtensions.png';
 
 function Code() {
   return (
@@ -155,7 +156,16 @@ function Code() {
         </div>
       </div>
       <div className="slide">
-        <div className="slide-title">Project #11: Creative coding with p5.js</div>
+        <div className="slide-title">Project #11: miniExtensions</div>
+        <div className="description">
+          For this project, I created a proof-of-concept browser-based application with a simple UI for miniExtensions (a California-based company). The app allows a user to search a student's name and receive back their associated classes and classmates through Airtable API filters. Its state is stored fully in Redux. You can check out my two separate approaches here: <a href="https://github.com/Friskybunnies/miniExtensions" target="_blank" rel="noreferrer">here</a> and <a href="https://github.com/Friskybunnies/mE-backend-approach" target="_blank" rel="noreferrer">here</a>.
+        </div>
+        <div className="miniExtensions">
+          <img className="miniExtensions-image" src={MiniExtensions} alt="" />
+        </div>
+      </div>
+      <div className="slide">
+        <div className="slide-title">Project #12: Creative coding with p5.js</div>
         <div className="description">
           I like to generate and fork creative repos across platforms to make digital art with code (such as the header at the top of this page). The samples below are "Rutabaga Zombie," "Dawnfruit/Duskfruit," and "Chromosome Pirouette" respectively, which I created with p5.js on OpenProcessing, an open-source community devoted to the artistic aspects of code. You can check out my profile <a href="https://openprocessing.org/user/280981?view=activity" target="_blank" rel="norefferer">here</a>.
         </div>
@@ -186,7 +196,7 @@ function Code() {
         </div>
       </div>
       <div className="slide">
-        <div className="slide-title">Project #12: Pierre's Polynomial Mustache</div>
+        <div className="slide-title">Project #13: Pierre's Polynomial Mustache</div>
         <div className="description">
           Pierre's Polynomial Mustache is a simple, educational visualizer for the concepts of both polynomial regression and the ML tuning parameter known as "learning rate." It's built with TensorFlow and p5.js, drawing inspiration from the work of Daniel Shiffman, an Associate Professor at NYU. The user plots data points (in the world of the story, chickenpox blisters), which Pierre then tries to cover with his polynomial mustache, just like a data scientist would try to fit a regression line. When the degree of the polynomial gets too high, Pierre's mustache becomes impractical and silly, just like an overfitted model. You can play with Pierre <a href="https://heuristic-brahmagupta-2d5355.netlify.app/" target="_blank" rel="noreferrer">here</a>.
         </div>
@@ -195,7 +205,7 @@ function Code() {
         </div>
       </div>
       <div className="slide">
-        <div className="slide-title">Project #13: Frisky Figures</div>
+        <div className="slide-title">Project #14: Frisky Figures</div>
         <div className="description">
           P-value, t-test, F-test, F<sub>1</sub>-score, Z-test, Q-statistic, k-fold validation, R, R<sup>2</sup>...the list goes on. Without convenient mnemonics, how can statistics beginners keep it all straight? In this project, I'm building the field guide I wish I'd had from the start, with tips that are sophisticated, but written in plain English. I'm drawing inspiration from all of my favorite non-curricular, supplemental resources that helped me get started, like <a href="https://blog.minitab.com" target="_blank" rel="noreferrer">blog.minitab.com</a> and <a href="https://statquest.org" target="_blank" rel="noreferrer">statquest.org</a>. I'm also making the end product colorful and interactive, like <a href="https://seeing-theory.brown.edu" target="_blank" rel="noreferrer">seeing-theory.brown.edu</a>, <a href="https://careerkarma.com/blog/coding-bootcamp-final-project-ideas/" target="_blank" rel="noreferrer">3Blue1Brown</a>, and <a href="https://thecrashcourse.com" target="_blank" rel="noreferrer">thecrashcourse.com</a>. And I'm making it free! This project is a work in progress, but in the meantime, check out my dedicated Github page, <a href="https://github.com/Friskybunnies/frisky-figures" target="_blank" rel="noreferrer">here</a>.
         </div>
