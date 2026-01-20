@@ -1,7 +1,7 @@
 import React from "react";
 import './resume.css';
 import JFResumeHeader from './images/JFResumeHeader.png';
-import JFResume2021 from './images/JFResume2021.jpg';
+import JFResume2026 from './images/JFResume2026.jpg';
 import JFResumeArrow from './images/JFResumeArrow.png';
 import WebResume1 from './images/WebResume1.png';
 import WebResume2 from './images/WebResume2.png';
@@ -22,7 +22,7 @@ function Resume() {
         <img className="jf-resume-arrow" src={ JFResumeArrow } alt="" />
       </div>
       <div className='sub-division-3'>
-        <img className="jf-resume-2021" src={ JFResume2021 } alt="" />
+        <img className="jf-resume-2026" src={ JFResume2026 } alt="" />
       </div>
       <div className='sub-division'>
         <img className="web-layout-1" src={ WebResume1 } alt=""/>

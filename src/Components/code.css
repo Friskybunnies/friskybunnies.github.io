@@ -17,6 +17,10 @@
         margin-bottom: 0vh;
     }
 
+    .yotpo-image {
+        max-width: 50vw;
+    }
+
     .frisky-website-image {
         max-width: 50vw;
     }
@@ -194,6 +198,10 @@
         margin-bottom: 0vh;
     }
 
+    .yotpo-image {
+        max-width: 50vw;
+    }
+
     .frisky-website-image {
         max-width: 50vw;
     }
@@ -368,6 +376,10 @@
 
     .frisky-figures {
         margin-bottom: 0vh;
+    }
+
+    .yotpo-image {
+        max-width: 80vw;
     }
 
     .frisky-website-image {
@@ -547,6 +559,10 @@
         margin-bottom: 0vh;
     }
 
+    .yotpo-image {
+        max-width: 50vw;
+    }
+
     .frisky-website-image {
         max-width: 50vw;
     }
@@ -721,6 +737,10 @@
 
     .frisky-figures {
         margin-bottom: 0vh;
+    }
+
+    .yotpo-image {
+        max-width: 100vw;
     }
 
     .frisky-website-image {
