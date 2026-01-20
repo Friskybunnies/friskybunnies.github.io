@@ -16,7 +16,7 @@ function Resume() {
         <img className="jf-resume-header" src={ JFResumeHeader } alt="" />
       </div>
       <div className='profile'>
-        <h1 id='h1'>Hello! I’m a developer, writer, marketer, and designer with eight years of work experience in the NYC metro area. I’ve led marketing efforts and digital presence at genomics start-up Phosphorus, drafted book content for the CEO of NASDAQ-traded Boston healthcare company Quanterix, written for Ivy League professors and Silicon Valley technologists through Stern Strategy Group, and performed numerous consulting and freelancing services for companies and executives in design, UX, web dev, and more.</h1>
+        <h1 id='h1'>Hello! I’m a senior engineer with thirteen years of work experience in the NYC metro area. In my current Solutions capacity, I’ve launched hundreds of my company’s most strategic and high-value Western Hemisphere merchants, whose cumulative contract value exceeds $8M. I instituted my team’s first-ever code review process, launched an improved Subject Matter Expert program, and managed peer escalations, all while building out technical resources for external and internal partners across four company product lines. In non-engineering roles, I’ve led marketing and digital at genomics start-up Phosphorus, drafted CEO book content for NASDAQ-traded healthcare company Quanterix, and written for Ivy League professors and Silicon Valley technologists through Stern Strategy Group.</h1>
       </div>
       <div className='sub-division-2'>
         <img className="jf-resume-arrow" src={ JFResumeArrow } alt="" />
