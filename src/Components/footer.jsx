@@ -9,7 +9,7 @@ function Footer() {
             <footer>
                 <div className='footer-container'>
                     <p className='copyright'>
-                        Copyright &copy; Justin Farris 2021
+                        Copyright &copy; Justin Farris 2026
                     </p>
                     <div className='icons'>
                         <a href='https://www.facebook.com/friskybunnies' target='_blank' aria-label='Facebook'>
@@ -24,9 +24,9 @@ function Footer() {
                         </a>
                     </div>
                     <p className='technologies'>
-                        This site is built in React 17
+                        This site is built with React
                     </p>
-                    <p className='small-copyright'>Copyright &copy; Justin Farris 2021</p>
+                    <p className='small-copyright'>Copyright &copy; Justin Farris 2026</p>
                 </div>
             </footer>
         </div>
